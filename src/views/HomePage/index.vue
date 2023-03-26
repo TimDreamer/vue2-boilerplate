@@ -7,10 +7,7 @@
 <script>
 export default {
   name: 'HomePage',
-};
+}
 </script>
 
-<style lang="sass">
-.home
-  background-color: red
-</style>
+<style lang="sass"></style>
